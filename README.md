@@ -322,17 +322,7 @@ Currently Learning:
 --- 
 
 ---
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Trunal7778&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trunal7778&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
