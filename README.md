@@ -1,9 +1,94 @@
-#   About Me
-Hi, I'm Trunal Prajapati. I'm passionate about Python development, full-stack development, and QA testing. I’m from Ahmedabad, India, and currently pursuing an Integrated M.Sc. in Information Technology at JG University.
+<div align="center">
 
-I enjoy building real-world web applications that solve practical problems and provide a great user experience. I’m always learning and improving my skills in clean coding, modern development practices, and software quality.
+# Hi 👋, I'm Trunal Prajapati
 
-## 🌱 Currently Learning
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+Python+Developer;Full+Stack+Developer;QA+Testing+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+### Python Developer • Full Stack Developer • QA Testing Enthusiast
+
+<p>
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_INSTAGRAM_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Trunal7778&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 "Building real-world applications with clean code, continuous learning, and a passion for solving practical problems."
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+# 👋 About Me
+
+Hi, I'm **Trunal Prajapati**. I'm passionate about **Python development, full-stack development, and QA testing**. I'm from **Ahmedabad, India**, and currently pursuing an **Integrated M.Sc. in Information Technology** at **JG University**.
+
+I enjoy building **real-world web applications** that solve practical problems and provide a great user experience.
+
+I'm always learning and improving my skills in **clean coding**, **modern development practices**, and **software quality**.
+
+</td>
+
+<td width="45%" valign="top">
+
+# ⚡ At a Glance
+
+```yaml
+Name: Trunal Prajapati
+
+Role: Aspiring Python Developer
+
+Education:
+Integrated M.Sc. IT
+
+University:
+JG University
+
+Location:
+Ahmedabad, Gujarat
+
+Interested In:
+- Python
+- Full Stack Development
+- QA Testing
+
+Currently Learning:
+- Django
+- Flask
+- REST APIs
+- Git & GitHub
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🚀 Learning
+
 - Django
 - Flask
 - Git and GitHub
@@ -12,22 +97,350 @@ I enjoy building real-world web applications that solve practical problems and p
 - Full Stack Development
 - Software Development Best Practices
 
+</td>
 
-⚡ Fun Fact
+<td width="50%">
 
-I love learning new technologies by building projects instead of only watching tutorials.
+## 🎯 Goal
 
+✔ Build Production Ready Projects
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+✔ Improve Backend Skills
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Trunal7778&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Trunal7778&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Trunal7778&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+✔ Learn Modern Development Practices
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Trunal7778&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+✔ Become Industry Ready
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Trunal7778&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ⚡ Fun Fact
+
+> 💡 I love learning new technologies by building projects instead of only watching tutorials.
+
+--- 
+
+# 💻 Tech Stack
+
+<table align="center">
+
+<tr>
+<td align="center" width="180">
+
+### 🧠 Languages
+
+</td>
+
+<td>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🌐 Frontend
+
+</td>
+
+<td>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+<img src="https://skillicons.dev/icons?i=angular" height="45"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙ Backend
+
+</td>
+
+<td>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=django" height="45"/>
+<img src="https://skillicons.dev/icons?i=flask" height="45"/>
+<img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄 Databases
+
+</td>
+
+<td>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔧 Tools
+
+</td>
+
+<td>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁ Web Servers
+
+</td>
+
+<td>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔐 Authentication
+
+</td>
+
+<td>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+</p>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🚀 Currently Working On
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🛠 Building
+
+- 🌐 Real-world Web Applications
+
+- 🐍 Backend Development with Python
+
+- 🗃 Database Driven Projects
+
+- 📱 Responsive Websites
+
+</td>
+
+<td width="50%">
+
+## 📚 Learning & Exploring
+
+- ⚡ Django Framework
+
+- 🔥 Flask Development
+
+- 🌍 REST APIs
+
+- 🚀 Full Stack Development
+
+- 💻 Software Development Best Practices
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 💡 Daily Motivation
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+--- 
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Trunal7778&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trunal7778&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Trunal7778&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trunal7778&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Trunal7778&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Trunal7778/Trunal7778/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+> 💡 **I love learning new technologies by building projects instead of only watching tutorials.**
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Trunal7778&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Happy+Coding!;Always+Learning+Something+New!;Thanks+for+Stopping+By!"/>
+
+</div> 
+
+## 📌 GitHub Overview
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trunal7778&theme=tokyonight"/>
+</p> 
+
+## ⏰ Coding Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trunal7778&theme=tokyonight&utcOffset=5"/>
+</p> 
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trunal7778&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trunal7778&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trunal7778&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trunal7778&theme=tokyonight"/>
+</p>
