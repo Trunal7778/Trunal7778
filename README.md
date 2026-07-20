@@ -7,12 +7,10 @@
 ### Python Developer • Full Stack Developer • QA Testing Enthusiast
 
 <p>
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="YOUR_INSTAGRAM_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<a href="www.linkedin.com/in/trunal-prajapati-654936354"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Trunal7778"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+  
 <img src="https://komarev.com/ghpvc/?username=Trunal7778&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
@@ -324,14 +322,13 @@ Currently Learning:
 --- 
 
 ---
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Trunal7778&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Trunal7778&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trunal7778&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trunal7778&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -341,10 +338,9 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Trunal7778&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Trunal7778&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 # 📈 Contribution Graph
@@ -356,24 +352,6 @@ Currently Learning:
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Trunal7778&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Trunal7778/Trunal7778/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
 
 ---
 
@@ -391,21 +369,14 @@ Currently Learning:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/trunal-prajapati-654936354">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/Trunal7778">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 </div>
 
