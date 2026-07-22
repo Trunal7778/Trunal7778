@@ -394,13 +394,13 @@ Currently Learning:
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trunal7778&theme=tokyonight"/>
-</p> 
+</p>
 
 ## ⏰ Coding Activity
-<!-- updated -->
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trunal7778&theme=tokyonight&utcOffset=5"/>
-</p> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trunal7778&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trunal7778&theme=tokyonight"/>
@@ -409,5 +409,4 @@ Currently Learning:
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trunal7778&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trunal7778&theme=tokyonight"/>
 </p>
