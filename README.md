@@ -393,20 +393,43 @@ Currently Learning:
 ## 📌 GitHub Overview
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trunal7778&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trunal7778&theme=tokyonight"/>
 </p>
 
 ## ⏰ Coding Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trunal7778&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trunal7778&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trunal7778&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trunal7778&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trunal7778&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trunal7778&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trunal7778&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trunal7778&theme=tokyonight"/>
+</p> 
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trunal7778&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trunal7778&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Trunal7778&theme=tokyonight&hide_border=false"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trunal7778&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Trunal7778&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 </p>
