@@ -9,8 +9,13 @@
 <p>
 <a href="https://www.linkedin.com/in/trunal-prajapati-654936354/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;
 <a href="https://github.com/Trunal7778"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;&nbsp;
+&nbsp;&nbsp; 
                                           
+<a href="https://portfolio-one-ashy-42.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a> 
+&nbsp;&nbsp; 
+                                         
 <img src="https://komarev.com/ghpvc/?username=Trunal7778&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
